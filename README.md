@@ -33,3 +33,6 @@ By inputting new phrases or sentences, the model can tell the sentiment of the r
 4) Apart from Logistic Regression, Bayers, Decision Tree, use other methods.
 5) Since the original dataset was preprocessed, a sentence is divided into pieces. Maybe try to take the longest sentence in each PhraseId and rebuild the model
 6) Filter the spam texts before building the sentiment analysis model
+
+## Link to the project
+https://github.com/crystalsw/Capstone-Project
