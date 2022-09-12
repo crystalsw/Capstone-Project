@@ -16,7 +16,7 @@ After stemming and lemmatizing, I used GridSearchCV to find the best machine lea
 
 The mean cross validation score for the best model with stemming is 0.6042 (std:  0.0019 ), Precision is 0.5973, Recall is 0.6152 and the F1 score is 0.5969 .
 
-The scores, best params and fit times of different methods used are as follows:
+The scores, best parameters and fit times of different methods used are as follows:
 
 ![Table of models evaluation](./images_to_report/table_of_models_evaluation.JPG)
 
